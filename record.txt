@@ -1,0 +1,32 @@
+Player Name :Fatima Wahrr
+Played Date:Wed Dec 27 20:41:09 2023
+Score:5
+___________________________________________________
+Player Name :Sara
+Played Date:Fri Dec 29 08:42:01 2023
+Score:1
+___________________________________________________
+Player Name :Sami
+Played Date:Sat Dec 30 10:14:11 2023
+Score:4
+___________________________________________________
+Player Name :Ilyas
+Played Date:Wed Jan 03 21:35:19 2024
+Score:2
+___________________________________________________
+Player Name :MEKKI
+Played Date:Wed Mar 06 10:51:39 2024
+Score:3
+___________________________________________________
+Player Name :Imad Idaliouali
+Played Date:Wed Mar 06 10:54:17 2024
+Score:6
+___________________________________________________
+Player Name :Houssam
+Played Date:Tue Mar 12 14:17:51 2024
+Score:2
+___________________________________________________
+Player Name :ABDE
+Played Date:Mon Apr 01 11:47:14 2024
+Score:2
+___________________________________________________

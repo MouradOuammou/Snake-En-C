@@ -1,0 +1,9 @@
+Je m'appelle Mourad et je suis étudiant en génie logiciel et systèmes distribués. Je suis passionné de développement de jeux et j'ai créé mon propre jeu classique Snake sur console.
+
+Dans ce jeu, le joueur contrôle un serpent qui doit manger des pommes pour grandir. Plus le serpent mange de pommes, plus il devient long et difficile à contrôler. Le joueur doit éviter que le serpent ne se heurte à lui-même ou aux bords de l'écran, sinon la partie est terminée.
+
+Mon jeu Snake est écrit en langage C et utilise la bibliothèque curses pour la gestion de l'affichage. Il est conçu pour fonctionner sur les systèmes Linux et peut être compilé et exécuté à partir de la ligne de commande.
+
+Si vous êtes intéressé par mon jeu Snake ou si vous souhaitez en savoir plus sur mon travail de développement de jeux, n'hésitez pas à me contacter par e-mail à l'adresse suivante : mourad.limaa@gmail.com.
+
+Je serais ravi de discuter avec vous et de partager mes connaissances et mon expérience en matière de développement de jeux.
